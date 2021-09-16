@@ -1,5 +1,7 @@
 # Turn file name back into url
 
-https://www.wolframcloud.com/objects/microsites/NKMDecode?id="FILE NAME HERE WITHOUT QUOTES"
+https://www.wolframcloud.com/objects/microsites/NKMDecode?id=
+file name without extension
   
-https://tones.wolfram.com/generate/"ENCODED STRING"
+https://tones.wolfram.com/generate/
+encoded string that you got
